@@ -1,0 +1,3 @@
+C:/Users/eli.jerome25/Downloads/EliJerome25-HotelKashyyyk/cmake-build-debug/CMakeFiles/EliJerome25_HotelKashyyyk.dir
+C:/Users/eli.jerome25/Downloads/EliJerome25-HotelKashyyyk/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eli.jerome25/Downloads/EliJerome25-HotelKashyyyk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
